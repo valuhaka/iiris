@@ -2,25 +2,18 @@ import FadeIn from "./FadeIn";
 
 const experiences = [
   {
-    period: "2021 – Present",
-    title: "Clinical Psychologist",
-    org: "Amsterdam Center for Trauma & Resilience",
+    period: "2025",
+    title: "Neuropsykologiharjoittelija",
+    org: "HUS-neuropsykiatria, Pasila",
     description:
-      "Providing individual and group psychotherapy for adults with PTSD, complex trauma, and anxiety disorders. Supervising psychology interns and contributing to the development of trauma-informed care protocols.",
+      "Hoidin ???????.",
   },
   {
-    period: "2019 – 2021",
-    title: "Clinical Psychologist",
-    org: "GGZ inGeest, Amsterdam",
+    period: "2021 – 2025",
+    title: "Tutkimusassistentti",
+    org: "Helsingin yliopisto",
     description:
-      "Conducted psychological assessments and delivered evidence-based treatment (CBT, EMDR) within multidisciplinary teams. Specialized caseload in mood and anxiety disorders.",
-  },
-  {
-    period: "2017 – 2019",
-    title: "Psychology Intern (GZ-Psycholoog in opleiding)",
-    org: "Radboud University Medical Center, Nijmegen",
-    description:
-      "Completed supervised clinical placements in adult outpatient psychiatry and neuropsychological assessment. Co-facilitated group therapy for patients with personality disorders.",
+      "Tutkin ????????.",
   },
 ];
 
@@ -30,7 +23,7 @@ const Experience = () => {
       <div className="container mx-auto px-6 max-w-3xl">
         <FadeIn>
           <h2 className="font-display text-3xl font-semibold text-foreground mb-12">
-            Clinical Experience
+            Työkokemus
           </h2>
         </FadeIn>
 
